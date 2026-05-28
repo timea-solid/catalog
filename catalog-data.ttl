@@ -493,7 +493,7 @@
 
 <urn:uuid:1148e922-daa6-4047-9943-e9e6d9be4e3f> a ex:Software ;
   ex:description "A note-taking app for Solid" ;
-  ex:maintainer <hhttps://github.com/Vinnl ;
+  ex:maintainer <https://github.com/Vinnl>;
   ex:name "Notepod (VT)" ;
   ex:repository <https://github.com/Vinnl/notepod> ;
   ex:status con:Archived ;
