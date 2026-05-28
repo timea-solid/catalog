@@ -73,6 +73,11 @@
   ex:name "Patrick Hochstenbach" ;
   ex:webid <https://hochstenbach.solidcommunity.net/profile/card#me> .
 
+<https://id.inrupt.com/rajugeorge> a ex:Person ;
+  ex:forumHandle "@rajugeorge" ;
+  ex:name "Raju George" ;
+  ex:webid <https://id.inrupt.com/rajugeorge> .
+
 <https://id.mrkvon.org> a ex:Person ;
   ex:forumHandle "@mrkvon" ;
   ex:landingPage <https://github.com/mrkvon>, <https://mrkvon.org> ;
@@ -161,6 +166,12 @@
   ex:resourcesWanted "developers, ux designers, testers, feedback" ;
   ex:subType con:OpenSourceProject ;
   ex:webid <https://pod-os.solidcommunity.net/profile/card#me> .
+
+<https://pod.inrupt.com/kyra/profile/card#me> a ex:Person ;
+  ex:forumHandle "@KyraAssaad" ;
+  ex:landingPage <https://github.com/kyraassaad> ;
+  ex:name "Kyra Assaad" ;
+  ex:webid <https://pod.inrupt.com/kyra/profile/card#me> .
 
 <https://renyuneyun.solidcommunity.net/profile/card#me> a ex:Person ;
   ex:contactEmail <mailto:me@ryey.icu> ;
